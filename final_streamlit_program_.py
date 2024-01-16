@@ -10,6 +10,7 @@ Original file is located at
 import subprocess
 
 subprocess.run(["pip3", "-m", "install", "langchain"])
+!pip install langchain
 import langchain
 import os
 import openai
