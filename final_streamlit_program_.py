@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1qXHTmh_LYiOdPR8PP9samEk39KnK54_R
 """
 
-#
+subprocess.run(["pip3", "-m", "install", "langchain"])
 import langchain
 import os
 import openai
