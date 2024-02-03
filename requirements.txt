@@ -5,7 +5,7 @@ tiktoken
 streamlit
 chromadb
 PyPDF2
-unstructured[pdf]
+
 
 
 
